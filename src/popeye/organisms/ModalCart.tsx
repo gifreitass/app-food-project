@@ -74,7 +74,7 @@ const ModalCart: React.FC<{ restaurant: iGetRestaurants, modalFunction: React.Mo
         <ModalArea>
             <Cart>
                 <CloseModal onClick={props.modalFunction}>
-                    <img height={30} src="https://cdn.icon-icons.com/icons2/1993/PNG/512/cancel_circle_close_delete_discard_file_x_icon_123219.png" alt="close" />
+                    <img height={30} src="https://cdn-icons-png.flaticon.com/512/2734/2734822.png" alt="close" />
                 </CloseModal>
                 <div>
                     Seu Pedido em:

@@ -142,7 +142,7 @@ const CardProduct: React.FC<{
                 </ButtonAddCart>
                 {countProduct}
                 <ButtonAddCart onClick={removeProductToCart}>
-                    <img height={30} src="https://cdn.icon-icons.com/icons2/2090/PNG/512/minus_icon_128415.png" alt="" />
+                    <img height={30} src="https://cdn-icons-png.flaticon.com/512/992/992683.png" alt="" />
                 </ButtonAddCart>
             </DivOperations>
 
